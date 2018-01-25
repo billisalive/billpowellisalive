@@ -5,8 +5,6 @@ date: 2003-12-17
 excerpt: "Have you ever talked to a rock? Most rocks are actually very smart."
 ---
 
-Test 4.
-
 <div class="post">     
     
 <div class="post-body">
