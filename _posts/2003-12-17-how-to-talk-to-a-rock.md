@@ -1,5 +1,6 @@
 ---
 title: How to Talk to a Rock
+category: blog
 ---
 
 <div class="post">     
