@@ -23,3 +23,11 @@ You can even get the secret prequel for free...
 	<a href="https://billalive.com/free-empath-mystery"><strong>Click here to get a free funny mystery...</strong></a>
 
 </div>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
