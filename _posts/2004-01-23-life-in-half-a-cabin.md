@@ -1,5 +1,6 @@
 ---
 title: Life in Half a Cabin
+permalink: /blog/:title
 ---
 
 <p><strong>UPDATE: 2012</strong></p>
