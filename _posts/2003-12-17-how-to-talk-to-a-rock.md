@@ -1,11 +1,12 @@
 ---
 title: "How to Talk to a Rock"
-categories: blog
+category: blog
 date: 2003-12-17
 layout: post
+excerpt: "Have you ever talked to a rock? Most rocks are actually very smart."
 ---
 
-Test 2.
+Test 3.
 
 <div class="post">     
     
