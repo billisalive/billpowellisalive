@@ -24,6 +24,8 @@ You can even get the secret prequel for free...
 
 </div>
 
+## Posts
+
 <ul>
   {% for post in site.posts %}
     <li>
