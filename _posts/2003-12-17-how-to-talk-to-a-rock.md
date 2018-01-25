@@ -1,6 +1,7 @@
 ---
 title: How to Talk to a Rock
 category: blog
+date: 2003-12-17
 ---
 
 <div class="post">     
