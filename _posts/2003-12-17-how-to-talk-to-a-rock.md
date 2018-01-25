@@ -6,7 +6,7 @@ excerpt: "Have you ever talked to a rock? Most rocks are actually very smart."
 layout: page
 ---
 
-layout: default
+layout: page
 
 <div class="post">     
     
