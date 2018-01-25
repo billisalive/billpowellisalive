@@ -3,8 +3,10 @@ title: "How to Talk to a Rock"
 category: blog
 date: 2003-12-17
 excerpt: "Have you ever talked to a rock? Most rocks are actually very smart."
-layout: post
+layout: default
 ---
+
+layout: default
 
 <div class="post">     
     
