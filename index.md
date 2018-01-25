@@ -1,3 +1,8 @@
+---
+title: Bill Powell Is Alive
+layout: post
+---
+
 This is my old site.
 
 I write hilarious mysteries now.
