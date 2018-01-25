@@ -1,6 +1,6 @@
 ---
-title: How to Talk to a Rock
-category: blog
+title: "How to Talk to a Rock"
+categories: blog
 date: 2003-12-17
 layout: post
 ---
