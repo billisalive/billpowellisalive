@@ -1,6 +1,4 @@
----
 # How to Talk to a Rock
-date: 2003-12-17
 ---
 
 <div class="post">     

@@ -1,0 +1,8 @@
+/* Hide confusing docs stuff. */
+
+.wy-form, 
+.wy-menu,
+.wy-breadcrumbs,
+.rst-versions,
+.rst-footer-buttons 
+{ display: none !important; }

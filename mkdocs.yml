@@ -1,3 +1,4 @@
 site_name: Bill Powell Is Alive
 site_url: http://billpowellisalive.com
 theme: readthedocs
+extra_css: [extra.css]
