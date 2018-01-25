@@ -1,7 +1,7 @@
+# "Life in Half a Cabin"
 ---
-title: "Life in Half a Cabin"
-permalink: /blog/:title
----
+
+_Originally posted in 2004._
 
 <p><strong>UPDATE: 2012</strong></p>
 <p>In the eight years since I first visited <strong>Richard Fahey</strong> and wrote about his "Catholic Homesteading Movement," several people have contacted me to tell me that he was and is an <strong>abusive father and husband</strong>. &nbsp;</p>

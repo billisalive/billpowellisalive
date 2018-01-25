@@ -37,3 +37,14 @@
     
 <p class="comment-link"> </p>
 </div><!-- post -->
+
+<hr>
+
+<div style="text-align: center; padding-bottom: 25px;">
+
+	<p><em>Like what you just read?<br>I also write hilarious mysteries.</em></p>
+
+	<p><a href="https://billalive.com/free-empath-mystery" class="btn btn-large"><strong>Click here to get a FREE funny mystery!</strong></a></p>
+
+</div>
+

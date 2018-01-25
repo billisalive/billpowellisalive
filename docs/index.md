@@ -19,6 +19,6 @@ You can even get the secret prequel for free...
 
 <div style="text-align: center; padding-bottom: 25px;">
 
-	<a href="https://billalive.com/free-empath-mystery"><strong>Click here to get a free funny mystery...</strong></a>
+	<a href="https://billalive.com/free-empath-mystery" class="btn btn-large"><strong>Click here to get a FREE funny mystery!</strong></a>
 
 </div>

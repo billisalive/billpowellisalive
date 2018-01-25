@@ -6,3 +6,7 @@
 .rst-versions,
 .rst-footer-buttons 
 { display: none !important; }
+
+footer {
+font-size: .7em;
+}
