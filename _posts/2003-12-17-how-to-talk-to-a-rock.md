@@ -5,7 +5,7 @@ date: 2003-12-17
 layout: post
 ---
 
-Test.
+Test 2.
 
 <div class="post">     
     
