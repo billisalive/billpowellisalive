@@ -1,6 +1,7 @@
 ---
 title: Life in Half a Cabin
 permalink: /blog/:title
+layout: post
 ---
 
 <p><strong>UPDATE: 2012</strong></p>
