@@ -1,6 +1,6 @@
 ---
 title: Life in Half a Cabin
-permalink: /blog/:title
+permalink: /blog/:title/
 layout: post
 ---
 
