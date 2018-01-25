@@ -1,7 +1,5 @@
 ---
 title: Life in Half a Cabin
-date: 2004-01-23
-layout: post
 ---
 
 <p><strong>UPDATE: 2012</strong></p>
